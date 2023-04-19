@@ -1,6 +1,6 @@
 # Titan
 
-[![PIP Version][pypi-image]][pypi-url] [![Downloads Stats][pypi-downloads]][pypi-url]
+[![Downloads Stats][pypi-downloads]][pypi-url]
 
 ### This is a project for course conclusion of the course IARTES - AI Specialization for Software Test Engineering
 
@@ -65,7 +65,7 @@ How to install all development dependencies and how to run an automated test-sui
 
 ```sh
     git config --global user.name "Your Name"
-    git config --global user.email "your_nickname@eldorado.org.br"
+    git config --global user.email "your@email.com"
 ```
 
 2. Clone the project
@@ -145,9 +145,9 @@ Distributed under the [MIT license](https://choosealicense.com/licenses/mit/) . 
 
 ## Meta
 
-André Santos - santos.andre7@outlook.com;
-Kelen Lima - kelenrlima@gmail.com;
-Raul Batalha – raulbatalh@gmail.com;
+<br> André Santos - santos.andre7@outlook.com </br>
+<br> Kelen Lima - kelenrlima@gmail.com </br>
+<br> Raul Batalha – raulbatalh@gmail.com </br>
 
 <!-- Markdown link & img dfn's -->
 
