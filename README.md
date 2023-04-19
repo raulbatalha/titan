@@ -5,7 +5,7 @@
 ### This is a project for course conclusion of the course IARTES - AI Specialization for Software Test Engineering
 
 <p align="center" width="100%">
-<img width="20%" src='https://user-images.githubusercontent.com/12941167/232917960-4861fb8a-ed55-436c-82ab-61cd3fd00c0b.png' /img>
+<img width="30%" src='https://user-images.githubusercontent.com/12941167/232917960-4861fb8a-ed55-436c-82ab-61cd3fd00c0b.png' /img>
 </p>
 
 ### Table of Contents
